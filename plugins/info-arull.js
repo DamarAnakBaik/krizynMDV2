@@ -2,9 +2,9 @@ let handler  = async (m, { conn, usedPrefix }) => {
 conn.reply(m.chat, `
 ╭═══════════════════════
 ║╭──❉ 〔 INFO OWNER 〕 ❉────── 
-║│➸ ```NAMA``` : Arull
-║│➸ ```UMUR``` : 18thn
-║│➸ ```ASAL``` : KALIMANTAN SELATAN
+║│➸ ```NAMA``` : DAMAR BOTZ
+║│➸ ```UMUR``` : 14 TAHUN
+║│➸ ```ASAL``` : LAMPUNG TIMUR
 ║│➸ ```OFFICIAL GRUP``` :
 https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS
 ║│➸ ```ISTAGRAM``` : http://instagram.com/sahrulwara_____
